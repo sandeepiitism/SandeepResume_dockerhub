@@ -1,0 +1,1 @@
+## This is flask application for resume hosted on DockerHub using CI/CD pipeline
